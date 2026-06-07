@@ -35,9 +35,9 @@ Many to Many: This is done through the enrollment table
 
 # Files
 
-Schema.Sql - Contains the complete schema
-sample_data.sql - Contains query for sample data insertion
-ERD diagram - Represents the relationships 
+- Schema.Sql - Contains the complete schema
+- sample_data.sql - Contains query for sample data insertion
+- ERD diagram - Represents the relationships 
 
 
 # How to Run
