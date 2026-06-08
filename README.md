@@ -4,7 +4,7 @@ A Relational Database System designed specifically for Universities, ensuring sa
 
 # Overview
 
-The Database contains the following tables
+The Database System contains the following tables
 
 - Student
 - Department
