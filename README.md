@@ -37,6 +37,7 @@ Many to Many: This is done through the enrollment table
 
 - Schema.Sql - Contains the complete schema
 - SampleData.sql - Contains query for sample data insertion
+- Queries.sql
 - ERD diagram - Represents the relationships 
 
 
@@ -45,6 +46,7 @@ Many to Many: This is done through the enrollment table
 2. Access http://localhost/phpmyadmin/index.php?route=/ 
 3. Click on import file 
 4. Add SQLSchema.sql
+
 The Database should be created after this. 
 
 # Sample Quiries 
@@ -53,7 +55,8 @@ The Database should be created after this.
 3. Click on import file 
 4. Add SQLSchema.sql
 5. Click on SQL 
-6. Sample queries can be accessed from the repositary and run for operational check
+6. Access Queries.SQL
+7. Test each query for outputs 
 
 
 
