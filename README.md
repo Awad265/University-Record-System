@@ -41,7 +41,7 @@ Many to Many: This is done through the enrollment table
 
 
 # How to Run
-1. Download Xampp and Port it
+1. Download Xampp and Port SQL
 2. Access http://localhost/phpmyadmin/index.php?route=/ 
 3. Click on import file 
 4. Add SQLSchema.sql
@@ -50,10 +50,7 @@ The Database should be created after this.
 
 # Sample Quiries 
 1. Port SQL through XAMPP
-2. Access http://localhost/phpmyadmin/index.php?route=/ 
-3. Click on import file 
-4. Add SQLSchema.sql
-5. Click on SQL 
+2. Access http://localhost/phpmyadmin/index.php?route=/
 6. Access Queries.SQL
 7. Test each query for outputs 
 
