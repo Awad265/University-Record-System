@@ -38,7 +38,6 @@ Many to Many: This is done through the enrollment table
 - Schema.Sql - Complete schema
 - SampleData.sql - Query for sample data insertion
 - Queries.sql - Different queries for data retrieval 
-- ERD diagram - Represents the relationships 
 
 
 # How to Run
