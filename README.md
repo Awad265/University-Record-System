@@ -29,7 +29,7 @@ One to Many: One Student could have multiple enrollments
 -	Course-Enrollments
 One to Many: A course could consist of multiple students
 -	Enrollment-Semester 
-One to many: Multiple enrollments in a Semester
+Many to one: Multiple enrollments in a Semester
 -	Student-Course
 Many to Many: This is done through the enrollment table
 
