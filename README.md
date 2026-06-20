@@ -28,8 +28,8 @@ One to Many: One department can offer multiple courses that could be taught
 One to Many: One Student could have multiple enrollments
 -	Course-Enrollments
 One to Many: A course could consist of multiple students
--	Student-Enrollment 
-One to many: A semester consists of multiple enrollments in it.
+-	Enrollment-Semester 
+One to many: Multiple enrollments in a Semester
 -	Student-Course
 Many to Many: This is done through the enrollment table
 
